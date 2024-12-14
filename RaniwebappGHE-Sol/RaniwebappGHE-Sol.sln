@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaniwebappGHE-Proj", "RaniwebappGHE-Proj\RaniwebappGHE-Proj.csproj", "{536E02C9-0382-462B-B501-0F73E77761FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536E02C9-0382-462B-B501-0F73E77761FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536E02C9-0382-462B-B501-0F73E77761FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536E02C9-0382-462B-B501-0F73E77761FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536E02C9-0382-462B-B501-0F73E77761FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99270B9-5EC0-4E2E-9C49-578C2AD13C7B}
+	EndGlobalSection
+EndGlobal
